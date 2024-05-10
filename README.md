@@ -43,17 +43,17 @@ This folder contains files related to the analysis of hotel aggregator data. It 
 This sub-folder includes the .pbix file containing dashboards created in MS Power BI.
 
 #### Accessing the Power BI Dashboards
-You can access the Power BI file [here](TASK-03_Hotel_Aggregator_Analysis/pbix-file/).
+You can access the Power BI file [here](TASK-03_Hotel_Aggregator_Analysis_Using_Power_BI/pbix-file/).
 
 ### 2. video-file
 This sub-folder contains a video presentation on the task.
 
 #### Accessing the Video Presentation
-You can access the video presentation file [here](TASK-03_Hotel_Aggregator_Analysis/video-file/).
+You can access the video presentation file [here](TASK-03_Hotel_Aggregator_Analysis_Using_Power_BI/video-file/).
 
 ### 3. pptx-file
 This sub-folder contains a PowerPoint presentation on the task.
 
 #### Accessing the PowerPoint Presentation
-You can access the PowerPoint presentation file [here](TASK-03_Hotel_Aggregator_Analysis/pptx-file/).
+You can access the PowerPoint presentation file [here](TASK-03_Hotel_Aggregator_Analysis_Using_Power_BI/pptx-file/).
 
